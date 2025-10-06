@@ -1,2 +1,2 @@
-# Projeto-GB-implementacao-de-software
-Projeto em grupo Para Implementação de software
+# Projeto-GB-implementação-de-software
+Projeto em grupo para Implementação de software
